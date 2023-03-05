@@ -9,4 +9,8 @@ public class example {
 	public void form1(){
 	
 }
+	@Test
+	public void form2(){
+	
+}
 }
