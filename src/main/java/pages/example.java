@@ -17,4 +17,8 @@ public class example {
 	public void form3(){
 	
 }
+	@Test
+	public void form4(){
+	
+}
 }
