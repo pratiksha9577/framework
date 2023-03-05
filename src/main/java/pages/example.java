@@ -19,6 +19,6 @@ public class example {
 }
 	@Test
 	public void form4(){
-	
+	System.out.println();
 }
 }
